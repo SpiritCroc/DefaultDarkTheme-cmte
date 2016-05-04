@@ -3,4 +3,6 @@
 <resources>
     <!-- BG: open with... -->
     <color name="resolver_list_bg">#ff424242</color>
+
+    <color name="app_permission_icon_tint">#ffffffff</color>
 </resources>
