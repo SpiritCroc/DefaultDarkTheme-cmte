@@ -1,0 +1,21 @@
+# Name:
+
+Default Dark CM13 Theme
+
+
+# Short description:
+
+Minimal dark material theme for Cyanogenmod Theme Engine (CMTE)
+
+
+# Description:
+
+Dark material theme for CMTE.
+
+You need a ROM that supports the Cyanogenmod Theme Engine!
+
+Themed apps:
+- Settings
+- Framework
+
+Source code: https://github.com/SpiritCroc/DefaultDarkTheme-cmte
