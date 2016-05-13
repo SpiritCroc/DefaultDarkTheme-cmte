@@ -1,0 +1,9 @@
+the evil teal 500: 009688
+the good teal 200: 80cbc4
+
+possible todo:
+theme ringtone chooser
+theme com.android.phone.MobileNetworkSettings
+theme emergency broadcast
+theme cmte chooser
+fling action chooser icon background
