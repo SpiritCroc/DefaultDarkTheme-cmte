@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    I experienced that the reboot dialog theme might only apply when system ui overlays were enabled
+    in CMTE, although device default themes are defined in android.res. This file makes sure that
+    the options to theme system ui with this theme are actually present.
+    -->
+</resources>
