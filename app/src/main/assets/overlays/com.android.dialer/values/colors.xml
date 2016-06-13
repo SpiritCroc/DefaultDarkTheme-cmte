@@ -8,7 +8,9 @@ Source: https://github.com/pierx/Prime-Layers
     <color name="dialer_theme_color">#0288d1</color>
     <color name="dialer_theme_color_dark">#0277bd</color>
     <color name="dialtacts_theme_color">#ff4fc3f7</color><!-- theme note: accent color; used e.g. for icons to add contact/message/... when dialing -->
+    <color name="actionbar_background_color">#0288d1</color>
     <color name="actionbar_background_color_dark">#ff000000</color>
+    <color name="actionbar_text_color">#ffffffff</color>
     <color name="call_log_extras_text_color">#ff424242</color>
     <color name="voicemail_playback_seek_bar_already_played">#ff424242</color>
     <!--color name="item_selected">@android:color/holo_green_light</color-->
@@ -67,15 +69,12 @@ Source: https://github.com/pierx/Prime-Layers
     <color name="quickcontact_default_photo_tint_color_dark">#ff616161</color>
     <color name="letter_tile_default_color">#ff333333</color>
     <color name="letter_tile_font_color">#ffffffff</color>
-    <color name="actionbar_background_color">#ff424242</color>
     -->
-    <!--    <color name="actionbar_background_color_dark">#ff303030</color>-->
     <!-- none used:
     <color name="tab_ripple_color">#ffffffff</color>
     <color name="tab_accent_color">#ffffffff</color>
     <color name="tab_selected_underline_color">#ffffffff</color>
     <color name="frequently_contacted_title_color">#ff303030</color>
-    <color name="actionbar_text_color">#ffffffff</color>
     <color name="actionbar_unselected_text_color">#a6ffffff</color>
     <color name="background_primary">#ff303030</color>
     <color name="contact_all_list_background_color">#ff303030</color>
