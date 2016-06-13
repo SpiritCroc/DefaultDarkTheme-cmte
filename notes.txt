@@ -6,11 +6,6 @@ system settings:
     com.android.phone.MobileNetworkSettings
     emergency broadcast
     DUI fling action chooser icon background
-dialer external settings (android.telecom.TelecomManager):
-    TelecomManager.ACTION_SHOW_RESPOND_VIA_SMS_SETTINGS
-    TelecomManager.ACTION_SHOW_CALL_SETTINGS // if max. 1 SIM
-    TelecomManager.ACTION_CHANGE_PHONE_ACCOUNTS // if multiple SIMs
-    TelecomManager.ACTION_SHOW_CALL_ACCESSIBILITY_SETTINGS // tty
 sms
 clock
 instant messengers
