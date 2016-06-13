@@ -1,0 +1,6 @@
+<resources>
+    <!-- Following added in order to maintain the original dimensions while overriding DialtactsTheme and maintaining the same structure -->
+    <dimen name="contact_browser_list_item_text_indent">8dip</dimen>
+    <dimen name="contact_browser_list_item_photo_size">40dp</dimen>
+    <dimen name="contact_browser_list_item_gap_between_image_and_text">15dp</dimen>
+</resources>
