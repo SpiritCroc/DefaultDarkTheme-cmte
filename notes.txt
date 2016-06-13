@@ -11,6 +11,7 @@ dialer external settings (android.telecom.TelecomManager):
     TelecomManager.ACTION_SHOW_CALL_SETTINGS // if max. 1 SIM
     TelecomManager.ACTION_CHANGE_PHONE_ACCOUNTS // if multiple SIMs
     TelecomManager.ACTION_SHOW_CALL_ACCESSIBILITY_SETTINGS // tty
-contacts
 sms
 clock
+instant messengers
+email
