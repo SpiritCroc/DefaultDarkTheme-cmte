@@ -3,9 +3,10 @@ the good teal 200: 80cbc4
 
 possible todo:
 system settings:
-    com.android.phone.MobileNetworkSettings
     emergency broadcast
     DUI fling action chooser icon background
+dialer:
+    speed dial: select contact: fix secondary text color (currently something like 737373?)
 sms
 clock
 instant messengers
