@@ -1,0 +1,10 @@
+<resources>
+
+    <attr name="actionModeBackground" format="color" />
+    <attr name="colorPrimary" format="color" />
+    <attr name="colorPrimaryDark" format="color" />
+    <attr name="colorAccent" format="color" />
+
+    <attr name="windowActionModeOverlay" format="boolean" />
+
+</resources>
