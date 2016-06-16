@@ -118,5 +118,14 @@
         <item name="android:colorPrimaryDark">@color/primary_dark_color</item>
         <item name="android:colorAccent">@color/accent_blue</item>
     </style>
-    
+
+
+    <!-- Default;, we don't want to theme notifications -->
+    <style name="NotificationPrimaryText">
+        <item name="android:textColor">#212121</item>
+    </style>
+
+    <style name="NotificationSecondaryText">
+        <item name="android:textColor">#757575</item>
+    </style>
 </resources>
