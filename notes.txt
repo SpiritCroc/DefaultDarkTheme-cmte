@@ -7,6 +7,12 @@ system settings:
     DUI fling action chooser icon background
 dialer:
     speed dial: select contact: fix secondary text color (currently something like 737373?)
-sms
+sms:
+    attachment bg (currently cancelled because app crashes for me when selecting some attachments even with system theme)
+    options menu?
+    contact picker: matching text color
+email:
+    activated drawer icon color (might need some code changes, see com.android.mail.providers.Folder)
 clock
 instant messengers
+better wallpaper
