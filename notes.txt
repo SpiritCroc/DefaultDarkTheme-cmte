@@ -15,4 +15,3 @@ email:
     activated drawer icon color (might need some code changes, see com.android.mail.providers.Folder)
 clock
 instant messengers
-better wallpaper
