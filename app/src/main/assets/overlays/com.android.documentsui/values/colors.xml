@@ -17,13 +17,13 @@
 
 <resources>
     <color name="material_grey_50">#ff212121</color>
-    <!--color name="material_grey_300">#ff424242</color-->
+    <color name="material_grey_300">#ff424242</color>
 
-    <!--color name="item_doc_grid_background">@color/material_grey_300</color-->
+    <color name="item_doc_grid_background">#ff212121</color>
     <!--color name="item_doc_grid_protect_background">#88000000</color-->
 
     <!-- adding new exposed theme components -->
-    <!--color name="drawer_background_color">#ffffffff</color-->
+    <color name="drawer_background_color">#ff303030</color>
     <!--color name="font_color_doc_grid">#ffffffff</color-->
 
     <!-- Network traffic monitor single-line text size -->
