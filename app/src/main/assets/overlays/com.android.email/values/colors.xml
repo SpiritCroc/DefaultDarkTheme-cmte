@@ -35,12 +35,12 @@
     <color name="divider_color">#ff424242</color>
 
     <!-- Conversation List Item Colors -->
-    <color name="senders_text_color">@color/text_color_black</color>
-    <color name="subject_text_color_read">@color/text_color_grey</color>
-    <color name="subject_text_color_unread">@color/text_color_black</color>
-    <color name="snippet_text_color">@color/text_color_grey</color>
+    <color name="senders_text_color">#ffffffff</color>
+    <color name="subject_text_color_read">#b3ffffff</color>
+    <color name="subject_text_color_unread">#ffffffff</color>
+    <color name="snippet_text_color">#b3ffffff</color>
     <color name="date_text_color_unread">#ff4fc3f7</color>
-    <color name="date_text_color_read">@color/text_color_grey</color>
+    <color name="date_text_color_read">#b3ffffff</color>
     <!--
     <color name="message_info_text_color">@color/gray_text_color</color>
     <color name="ap_background_color">#cceeeeee</color>
@@ -67,8 +67,8 @@
     <color name="folder_list_divider_color">#ff424242</color>
 
     <!-- Compose colors -->
-    <color name="compose_label_text">@color/text_color_grey</color>
-    <color name="compose_user_text">@color/text_color_black</color>
+    <color name="compose_label_text">#b3ffffff</color>
+    <color name="compose_user_text">#ffffffff</color>
     <color name="compose_label_hint">@color/text_color_hint_grey</color>
 
     <color name="conv_header_add_label_text">#ffffffff</color>
@@ -150,7 +150,7 @@
     <!-- tip teaser colors -->
     <color name="tip_teaser_bg">#ff303030</color>
     <color name="tip_teaser_link">@color/text_color_blue</color>
-    <color name="tip_teaser_text">@color/text_color_black</color>
+    <color name="tip_teaser_text">#ffffffff</color>
 
     <!-- swipe to refresh text color, this matches the color in
         progressbar_solid_holo.png -->
@@ -168,8 +168,8 @@
     <color name="folder_teaser_icon_background">#ff424242</color>
 
     <color name="vacation_responder_window_background">#ff303030</color>
-    <color name="vacation_responder_header_text_color">@color/text_color_grey</color>
-    <color name="vacation_responder_main_text_color">@color/text_color_black</color>
+    <color name="vacation_responder_header_text_color">#b3ffffff</color>
+    <color name="vacation_responder_main_text_color">#ffffffff</color>
 
     <!-- Swipe refresh progress bar colors -->
     <!--
@@ -183,7 +183,7 @@
 
     <color name="loading_messages_background_color">#ff303030</color>
 
-    <color name="folder_item_text_color_normal">@color/text_color_grey</color>
+    <color name="folder_item_text_color_normal">#b3ffffff</color>
 
     <color name="mail_orange">#e7790d</color>
     <color name="statusbar_orange">#d06d0c</color>
