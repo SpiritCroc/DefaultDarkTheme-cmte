@@ -89,11 +89,10 @@
     <color name="widget_conversation_list_divider_color">#e5e5e5</color>
     -->
 
-    <!-- attachment values default because webview not theme-able -->
-    <color name="attachment_name_color">#333333</color>
+    <color name="attachment_name_color">#ffffffff</color>
     <!--  Color of the semi-transparent shadow box on attachment tiles -->
-    <color name="attachment_tile_shadow_box_color">#7F000000</color>
-    <!--  Color of the subtitle message in the attachment tile -->
+    <color name="attachment_tile_shadow_box_color">#ff424242</color>
+    <!--  Color of the subtitle message in the attachment tile --><!-- default because webview not theme-able -->
     <color name="attachment_tile_subtitle_color">#949494</color>
     <color name="attachment_image_background_color">#E5E5E5</color>
 
