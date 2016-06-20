@@ -5,7 +5,7 @@ Default Dark CM13 Theme
 
 # Short description:
 
-Minimal dark material theme for Cyanogenmod Theme Engine (CMTE)
+Dark material theme for the Cyanogenmod Theme Engine (CMTE)
 
 
 # Description:
