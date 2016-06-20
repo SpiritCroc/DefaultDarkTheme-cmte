@@ -13,4 +13,6 @@ sms:
     contact picker: matching text color
 email:
     activated drawer icon color (might need some code changes, see com.android.mail.providers.Folder)
+calculator
+superSU
 instant messengers

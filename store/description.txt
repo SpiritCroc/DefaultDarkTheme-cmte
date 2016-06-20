@@ -10,12 +10,20 @@ Minimal dark material theme for Cyanogenmod Theme Engine (CMTE)
 
 # Description:
 
-Dark material theme for CMTE.
+Theme for CMTE, using the default AOSP dark material colors.
 
 You need a ROM that supports the Cyanogenmod Theme Engine!
 
 Themed apps:
-- Settings
 - Framework
+- Settings
+- DocumentsUI
+- Dialer
+- Messaging (SMS)
+- Contacts
+- Clock
+- Email
 
 Source code: https://github.com/SpiritCroc/DefaultDarkTheme-cmte
+
+Testing every single detail of this theme with every single ROM out there is beyond my capability. So if you find any inconsistencies, please report to spiritcroc@gmail.com (or, if you know something about theming, create a pull-request!)
