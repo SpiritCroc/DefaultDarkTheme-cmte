@@ -7,6 +7,8 @@ system settings:
     DUI fling action chooser icon background
 dialer:
     speed dial: select contact: fix secondary text color (currently something like 737373?)
+contacts:
+    CM: edit group: select account text view (probably needs app update, see Contacts/res/layout/editor_account_header.xml, background is set to #EEEEEE)
 sms:
     attachment bg (currently cancelled because app crashes for me when selecting some attachments even with system theme)
     options menu?
