@@ -17,7 +17,15 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="android:Theme.Material" />
+    <style name="AppTheme" parent="android:Theme.Material">
+        <item name="android:colorPrimary">@color/primary</item>
+        <item name="android:colorPrimaryDark">@color/primary_dark</item>
+        <item name="android:colorAccent">@color/accent</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:textColorPrimary">@color/primary_text_color</item>
+        <item name="android:actionMenuTextColor">@android:color/white</item>
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
 
     <!--style name="ActionBarOverflow" parent="@android:style/Widget.Material.Light.ActionButton.Overflow">
         <item name="android:src">@drawable/ic_menu_overflow</item>

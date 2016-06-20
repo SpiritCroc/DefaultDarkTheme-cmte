@@ -15,18 +15,22 @@
  * limitations under the License.
 -->
 <resources>
+    <color name="white">#ffffffff</color>
+    <color name="black">#ffffffff</color>
+
     <color name="detailedview_pager_background">#ff303030</color>
     <color name="title_author_background">#ff424242</color>
     <color name="offwhite">#ff000000</color>
     <color name="author_grey">#ff424242</color>
 
-    <!--
     <color name="primary">#0288d1</color>
     <color name="primary_dark">#0277bd</color>
     <color name="accent">#0091ea</color>
-    <color name="actionbar_text_color">#fff</color>
-    <color name="primary_text_color">#000</color>
 
+    <color name="actionbar_text_color">#ffffffff</color>
+    <color name="primary_text_color">#ffffffff</color>
+
+    <!--
     <color name="apply_button_text_color_enabled">#ffffffff</color>
     <color name="apply_button_text_color_disabled">#b3ffffff</color>
 
@@ -35,9 +39,27 @@
     <color name="apply_button_pressed_color">#008ef2</color>
 
     <color name="designed_for_color">#ff8888</color>
+
+    <color name="card_background_default">#333333</color>
+    <color name="designed_for_color_dark">#ff8888</color>
+    <color name="designed_for_color_light">#a05555</color>
+    -->
+    <color name="title_card_dark">#ffffffff</color>
+    <color name="title_card_light">#ff212121</color><!--default-->
+    <color name="author_card_dark">#b3ffffff</color>
+    <color name="author_card_light">#ff353535</color><!--default-->
+
+    <color name="title_drawer_color">#ffffffff</color>
+    <color name="author_drawer_color">#b3ffffff</color>
+
+    <!--
+    <color name="floating_action_button_touch_tint">#80ffffff</color>
+
+    <color name="theme_accent">#4CAF50</color>
     -->
 
     <!-- Drawer -->
+    <color name="drawer_icon">#80ffffff</color>
     <color name="drawer_item_textcolor">#ffffffff</color>
     <color name="drawer_item_default">#ff303030</color>
     <color name="drawer_item_pressed">#ff424242</color>
