@@ -222,5 +222,7 @@ Source: https://github.com/pierx/Prime-Layers/blob/master/Prime_Framework/src/da
         <item name="android:colorAccent">#ff80cbc4</item>
     </style>
 
+    <style name="Theme.Material.Settings" parent="@android:style/Theme.Material" />
+
     <style name="Theme.Material.Settings.BaseDialog" parent="@android:style/Theme.Material.Dialog" />
 </resources>
