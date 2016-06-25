@@ -15,6 +15,8 @@ sms:
     contact picker: matching text color
 email:
     activated drawer icon color (might need some code changes, see com.android.mail.providers.Folder)
+PackageInstaller:
+    current/new version tab (as seen on DU bdbc556b28c4ec3b24b89f054549974fd2776bab and AICP I870216c87c027ace19c3d9217c40c31647ab3332) background
 calculator
 superSU
 instant messengers
