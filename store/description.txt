@@ -14,7 +14,7 @@ Theme for CMTE, using the default AOSP dark material colors.
 
 You need a ROM that supports the Cyanogenmod Theme Engine!
 
-Themed apps:
+Themed apps (no google apps at the moment):
 - Framework
 - Settings
 - DocumentsUI
