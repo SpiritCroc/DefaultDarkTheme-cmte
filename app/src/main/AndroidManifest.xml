@@ -2,7 +2,6 @@
     package="de.spiritcroc.defaultdarktheme_cmte">
 
     <uses-feature android:required="true" android:name="org.cyanogenmod.theme" />
-    <uses-feature android:required="false" android:name="org.cyanogenmod.theme.extensions" />
 
     <meta-data android:name="org.cyanogenmod.theme.name" android:value="@string/theme_name"/>
     <meta-data android:name="org.cyanogenmod.theme.author" android:value="@string/theme_author" />
