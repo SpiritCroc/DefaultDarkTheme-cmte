@@ -17,6 +17,10 @@ android {
         }
     }
     productFlavors {
+        std {
+        }
+        sc_custom {
+        }
     }
 }
 

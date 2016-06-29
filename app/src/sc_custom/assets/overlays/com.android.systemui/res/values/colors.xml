@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--color name="batterymeter_frame_color">#FFFF0000</color--><!-- Part of the CircleBatteryMeter representing the empty part of the battery -->
+    <!--color name="batterymeter_charge_color">#FF00FF00</color--><!-- ??? -->
+    <color name="batterymeter_bolt_color">#FFFFFF00</color><!-- Blinking charge sign within CircleBatteryMeter -->
+
+    <!-- QS and others -->
+    <color name="system_primary_color">#00000000</color>
+
+    <!-- Volume slider and others-->
+    <!--color name="system_secondary_color">#00000000</color-->
+
+    <!-- The "inside" of a notification, reached via longpress -->
+    <!-- default: @color/system_secondary_color -->
+    <!-- Should get overwritten if system_secondary_color is transparent in order to still be able to make out guts -->
+    <color name="notification_guts_bg_color">#ff384248</color><!-- the default value of system_secondary_color -->
+
+    <!-- Background of the volume panel. See also: volume_dialog_background -->
+    <!--color name="volume_panel_background_color">#5500FF00</color--><!-- does not work? -->
+    <!-- Battery base color -->
+    <color name="batterymeter_base_color">#FF00FF00</color>
+
+    <color name="battery_level_text">#FF00FF00</color>
+    <color name="kg_battery_level_text">#FF00FF00</color>
+
+    <!-- Network meter -->
+    <color name="network_text_text">#ff00ffff</color>
+
+    <color name="status_bar_battery_level_text_color">#FF00FF00</color>
+
+    <color name="status_bar_clock_color">#FFFFFF00</color>
+</resources>
