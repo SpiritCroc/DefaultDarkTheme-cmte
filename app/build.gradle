@@ -7,8 +7,8 @@ android {
         applicationId "de.spiritcroc.defaultdarktheme_cmte"
         minSdkVersion 21
         targetSdkVersion 23
-        versionCode 7
-        versionName "2.3"
+        versionCode 8
+        versionName "3.0"
     }
     buildTypes {
         release {
