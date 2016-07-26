@@ -44,6 +44,8 @@ Source: https://github.com/pierx/Prime-Layers
     <color name="background_dialer_white">#ff303030</color>
     <color name="background_dialer_light">#ff303030</color>
     <color name="background_dialer_results">#ff303030</color>
+    <color name="background_dialer_call_log">#ff303030</color>
+    <color name="background_dialer_call_log_list_item">#ff303030</color>
     <color name="undo_dialogue_text_color">#b3ffffff</color>
     <color name="call_log_expanded_background_color">#ff303030</color>
     <color name="call_log_action_text">#b3ffffff</color>
@@ -147,4 +149,9 @@ Source: https://github.com/pierx/Prime-Layers
     <color name="call_log_list_item_primary_action_icon_tint">#b3ffffff</color>
     <color name="call_log_missed_call_highlight_color">#fff44336</color>
     <color name="call_log_voicemail_highlight_color">#ff00b0ff</color>
+    <color name="voicemail_icon_disabled_tint">#80ffffff</color>
+    <color name="blacklisted_call">#ffffffff</color>
+
+    <color name="incall_dialpad_background">#ff303030</color>
+    <color name="incall_dialpad_background_pressed">#cc424242</color>
 </resources>
