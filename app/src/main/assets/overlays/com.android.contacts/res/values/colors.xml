@@ -13,6 +13,12 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
+
+<!-- relevant repos:
+packages/apps/Contacts
+packages/apps/ContactsCommon
+-->
+
 <resources>
 
     <color name="quickcontact_name_detail_background">#ff303030</color>

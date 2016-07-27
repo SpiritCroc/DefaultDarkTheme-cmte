@@ -4,6 +4,12 @@ Based on Prime-Layers by pierx, released under the cc-by-nc 4.0 license
 Source: https://github.com/pierx/Prime-Layers
 -->
 
+<!-- relevant repos:
+packages/apps/Dialer
+packages/apps/PhoneCommon
+packages/apps/InCallUI
+-->
+
 <resources>
     <color name="dialer_theme_color">#0288d1</color>
     <color name="dialer_theme_color_dark">#0277bd</color>
