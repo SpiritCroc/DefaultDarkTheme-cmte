@@ -29,15 +29,13 @@ Source: https://github.com/pierx/Prime-Layers
     <color name="phone_settings_background_color">#ff303030</color>
     <color name="setting_primary_color">#ffffffff</color>
     <color name="setting_secondary_color">#b3ffffff</color>
-    <!--
-    <color name="back_arrow_icon_tint_color">#ff0000</color>
+    <color name="back_arrow_icon_tint_color">#0288d1</color>
     <color name="searchbox_text_color">#ffffffff</color>
     <color name="searchbox_hint_text_color">#b3ffffff</color>
-    <color name="searchbox_background_color">#ff303030</color>
+    <color name="searchbox_background_color">#ff424242</color>
     <color name="search_shortcut_background_color">#ff303030</color>
-    <color name="search_shortcut_icon_color">#ff424242</color>
+    <color name="search_shortcut_icon_color">#0288d1</color>
     <color name="searchbox_icon_tint">#ffffffff</color>
-    -->
 
     <color name="dialtacts_primary_text_color">#ffffffff</color>
     <color name="dialtacts_secondary_text_color">#b3ffffff</color>
