@@ -121,4 +121,30 @@ Source: https://github.com/pierx/Prime-Layers
         parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title">
         <item name="android:textColor">@color/actionbar_text_color</item>
     </style>
+    <style name="CallDetailActivityTheme" parent="DialtactsTheme">
+        <item name="android:windowActionBarOverlay">false</item>
+        <item name="android:windowBackground">@color/background_dialer_results</item>
+        <!-- CallLog -->
+        <item name="call_log_primary_background_color">#ff303030</item>
+        <item name="call_log_secondary_background_color">#ff212121</item>
+        <item name="call_log_header_color">#ff424242</item>
+        <!-- VoicemailStatus -->
+        <item name="call_log_voicemail_status_height">48dip</item>
+        <item name="call_log_voicemail_status_background_color">#ff212121</item>
+        <item name="call_log_voicemail_status_text_color">#80ffffff</item>
+        <item name="call_log_voicemail_status_action_text_color">#33b5e5</item>
+    </style>
+    <style name="Theme.Material.Light.Dialog.NoTitle" parent="@android:style/Theme.Material.Dialog">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="CallLogSpinnerStyle">
+        <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
 </resources>

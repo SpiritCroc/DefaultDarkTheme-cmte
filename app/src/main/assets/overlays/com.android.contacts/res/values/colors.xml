@@ -13,6 +13,12 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
+
+<!-- relevant repos:
+packages/apps/Contacts
+packages/apps/ContactsCommon
+-->
+
 <resources>
 
     <color name="quickcontact_name_detail_background">#ff303030</color>
@@ -137,4 +143,13 @@
     <color name="spam_contact_color">#ff402c</color>
     -->
 
+    <!-- Text color of the search box text as entered by user  -->
+    <color name="searchbox_text_color">#ffffffff</color>
+    <!-- Background color of the search box -->
+    <color name="searchbox_background_color">#ff616161</color>
+
+    <color name="searchbox_hint_text_color">#80ffffff</color>
+    <color name="searchbox_icon_tint">@color/searchbox_hint_text_color</color>
+
+    <color name="search_shortcut_icon_color">#0288d1</color>
 </resources>
