@@ -5,7 +5,7 @@
     <color name="batterymeter_bolt_color">#FFFFFF00</color><!-- Blinking charge sign within CircleBatteryMeter -->
 
     <!-- QS and others -->
-    <color name="system_primary_color">#00000000</color>
+    <color name="system_primary_color">#80303030</color>
 
     <!-- Volume slider and others-->
     <!--color name="system_secondary_color">#00000000</color-->
