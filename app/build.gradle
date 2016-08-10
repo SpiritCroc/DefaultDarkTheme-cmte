@@ -4,7 +4,7 @@ android {
     compileSdkVersion 23
     buildToolsVersion "23.0.3"
     defaultConfig {
-        applicationId "de.spiritcroc.defaultdarktheme_cmte"
+        applicationId "de.spiritcroc.defaultdarktheme_cmte.sc"
         minSdkVersion 21
         targetSdkVersion 23
         versionCode 11
