@@ -102,4 +102,6 @@
     <color name="hour_22">#2c273e</color>
     <color name="hour_23">#272430</color>
     -->
+
+    <color name="notification_divider">#28000000</color>
 </resources>
