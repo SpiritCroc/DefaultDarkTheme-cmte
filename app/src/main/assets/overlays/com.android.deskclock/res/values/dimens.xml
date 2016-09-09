@@ -1,0 +1,7 @@
+<resources>
+    <!-- Following added in order to maintain the original dimensions of some themes and maintaining the same structure -->
+    <!-- Size of notification text (see TextAppearance.StatusBar.EventContent) -->
+    <dimen name="notification_text_size">14dp</dimen>
+    <!-- Size of notification text titles (see TextAppearance.StatusBar.EventContent.Title) -->
+    <dimen name="notification_title_text_size">18dp</dimen>
+</resources>
