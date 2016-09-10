@@ -114,8 +114,8 @@ packages/apps/InCallUI
     <color name="glowpad_text_widget_normal_tint">#ffcccccc</color>
     <color name="glowpad_call_widget_normal_tint">#ffffffff</color>
     <color name="glowpad_end_call_widget_normal_tint">#ffff1744</color>
-    <color name="incall_dialpad_touch_tint">#3303A9F4</color>
     -->
+    <color name="incall_dialpad_touch_tint">#3303A9F4</color>
     <color name="dialer_red_highlight_color">#f44336</color>
     <color name="dialer_green_highlight_color">#00e676</color>
     <color name="dialer_blue_highlight_color">#00b0ff</color>

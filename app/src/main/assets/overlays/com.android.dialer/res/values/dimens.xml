@@ -6,4 +6,8 @@
     <dimen name="action_bar_height">56dp</dimen>
     <dimen name="action_bar_elevation">2dp</dimen>
     <dimen name="actionbar_contentInsetStart">72dp</dimen>
+    <!-- Height and width of the in-call buttons. -->
+    <dimen name="in_call_button_dimension">48dp</dimen>
+    <dimen name="call_button_margin_vertical">8dp</dimen>
+    <dimen name="call_button_margin_horizontal">6dp</dimen>
 </resources>
