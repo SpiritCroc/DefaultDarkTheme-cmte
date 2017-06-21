@@ -1,6 +1,6 @@
 # Name:
 
-Default Dark CM13 Theme
+Default Dark Theme for CM13
 
 
 # Short description:
