@@ -25,5 +25,3 @@ Themed apps (no google apps):
 - Email
 
 Source code: https://github.com/SpiritCroc/DefaultDarkTheme-cmte
-
-Testing every single detail of this theme with every single ROM out there is beyond my capability. So if you find any inconsistencies, please report to spiritcroc@gmail.com (or, if you know something about theming, create a pull-request!)
